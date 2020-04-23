@@ -1,0 +1,45 @@
+body{
+
+	height: 100%;
+	width: 100%;
+	background-color: ;
+
+}
+h1.title{
+	text-align: center;
+}
+td.pend{
+
+}
+form{
+	background-color: #f2f2f2;
+	text-align: center;
+	border: 2px solid #f2f2f2;
+	border-radius: 20px;
+	margin: auto;
+	height: 90%;
+	width: 60%;
+	font-family: tw cen mt;
+}
+table{
+	margin: auto;
+	padding-top:10px;
+	/*text-align: center;*/
+}
+td{
+	border: 0.1px solid #f2f2f2;
+	border-radius: 10px;
+	text-align: center;
+}
+input{
+	text-align: center;
+	margin: 10px;
+	font-family: cursive;
+	border-radius: 7px;
+}
+.button{
+	font-family: cursive;
+	font-size: 20px;
+	size: 20px;
+	width: 100px;
+}
